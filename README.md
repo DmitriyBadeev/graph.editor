@@ -1,7 +1,7 @@
 # Редактор графов
 
 Исходное задание:
-![image](https://user-images.githubusercontent.com/44583300/161430048-02c51cd8-1f7e-45f9-90d1-13ce48bf4b6f.png)
+![image](https://user-images.githubusercontent.com/44583300/161935993-bf8ee418-f6f4-40a0-9b16-0d1e706b29bc.png)
 
 Реализовано не всё, но основной функционал по построению графа из задания работает.
 
